@@ -1,0 +1,19 @@
+{
+  "name": "country",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "chalk": "^5.0.0",
+    "country-list": "^2.2.0",
+    "readline-sync": "^1.4.10"
+
+  }
+}
